@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @AbhishekPatil
-- 👀 I’m interested in  Fashion Desiging
-- 🌱 I’m currently learning ... Final Year Bachelor Of Computer Application
-- 💞️ I’m looking to collaborate on ...
+- 👀 Currently Workings As Aws & Devops 
 - 📫 How to reach me ...abhutanut20@gmail.com
 
 <!---
